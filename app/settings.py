@@ -18,6 +18,7 @@ class DevConfig(Config):
 
     JWT_SECRET_KEY = 'CHANE ME'
     MONGO_DBNAME = 'mytify'
+    DOWNLOAD_PATH = Config.APP_DIR + '/download'
 
 
 class TestConfig(Config):

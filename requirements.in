@@ -4,3 +4,7 @@ flask_pymongo
 flask_jwt_extended
 pafy
 youtube-dl
+requests
+
+# client
+pyaudio
