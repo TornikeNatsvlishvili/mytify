@@ -20,5 +20,5 @@ pyjwt==1.5.3              # via flask-jwt-extended
 pymongo==3.5.1
 requests==2.18.4
 urllib3==1.22             # via requests
-werkzeug==0.12.2          # via flask
+werkzeug==0.15.3          # via flask
 youtube-dl==2017.10.20
